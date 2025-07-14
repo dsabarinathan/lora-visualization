@@ -9,7 +9,7 @@ Interactive visualization showing how Low-Rank Adaptation (LoRA) works for text 
 - Interactive controls
 
 ## Demo
-[Live Demo](https://yourusername.github.io/lora-visualization)
+[Live Demo](https://dsabarinathan.github.io/lora-visualization/)
 
 ## Usage
 - Click "Auto Play" to see complete training
